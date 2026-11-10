@@ -1,0 +1,14 @@
+{
+  "name": "baek-labs-weekly-report",
+  "description": "주간업무보고 취합 스킬 배포용 마켓플레이스",
+  "owner": {
+    "name": "James Baek"
+  },
+  "plugins": [
+    {
+      "name": "weekly-report",
+      "source": "./plugins/weekly-report",
+      "description": "팀별 주간업무보고 메일과 매출 엑셀을 모아 사업부 취합본을 만든다"
+    }
+  ]
+}
